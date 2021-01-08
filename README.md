@@ -8,5 +8,5 @@ This is a type of geospatial analysis where I have used folium library to plot t
 :point_right: check the [ipynb file](https://github.com/herkura/Covid--19-usa-analyses/blob/master/covid_geo_analyses.ipynb)
 
 # Data Set used
-I have used John hopkins usa covid dashboard dataset . :point_right: [csv file]()
+I have used John hopkins usa covid dashboard dataset . :point_right: [csv file](https://github.com/herkura/Covid--19-usa-analyses/blob/master/johns-hopkins-covid-19-daily-dashboard-cases.csv)
 
