@@ -9,4 +9,6 @@ This is a type of geospatial analysis where I have used folium library to plot t
 
 # Data Set used
 I have used John hopkins usa covid dashboard dataset . :point_right: [csv file](https://github.com/herkura/Covid--19-usa-analyses/blob/master/johns-hopkins-covid-19-daily-dashboard-cases.csv)
+# Step(s) for using folium library
+
 
