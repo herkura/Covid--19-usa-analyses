@@ -11,7 +11,7 @@ This is a type of geospatial analysis where I have used folium library to plot t
 I have used John hopkins usa covid dashboard dataset . :point_right: [csv file](https://github.com/herkura/Covid--19-usa-analyses/blob/master/johns-hopkins-covid-19-daily-dashboard-cases.csv)
 # Step(s) for using folium library
 `!conda install -c conda-forge folium=0.5.0 --yes`
-`import folium`
+``import folium``
 
  after importing this library you are good to go :rocket:
 
