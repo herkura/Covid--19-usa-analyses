@@ -45,7 +45,7 @@ for lat,lng in zip(dataFrame.lat,dataFrame.long):
     )
       
 map1_covid = usa_map.add_child(cases)
-map1_covid
+folium_static(map1_covid)
 
 st.subheader('Statewise Cases')
 
